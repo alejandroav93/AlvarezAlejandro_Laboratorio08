@@ -1,0 +1,199 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.985; Version 2009; 64bit' Language: 'en' Physical Memory: 16250 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity/AlvarezAlejandro_Laboratorio08
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52367
+Successfully changed project path to: D:/Unity/AlvarezAlejandro_Laboratorio08
+D:/Unity/AlvarezAlejandro_Laboratorio08
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 129.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity/AlvarezAlejandro_Laboratorio08/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x191b)
+    Vendor:   Intel
+    VRAM:     8125 MB
+    Driver:   27.20.100.9466
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56180
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003281 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 170.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.409 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007099 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity\AlvarezAlejandro_Laboratorio08\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity\AlvarezAlejandro_Laboratorio08\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.848 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2921 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.2 MB.
+System memory in use after: 128.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3381.
+Total: 3.472700 ms (FindLiveObjects: 0.271700 ms CreateObjectMapping: 0.143300 ms MarkObjects: 2.380000 ms  DeleteObjects: 0.676700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/FPSController Variant.prefab
+  artifactKey: Guid(2971dc759b2bbce418901c553bb37492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPSController Variant.prefab using Guid(2971dc759b2bbce418901c553bb37492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37633998247f52c8de66296028da7b3e') in 0.311703 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 103.248815 seconds.
+  path: Assets/Flashlight
+  artifactKey: Guid(19d0e26276c74f544ba5e366462ce6b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flashlight using Guid(19d0e26276c74f544ba5e366462ce6b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85177985ada13f2d8f92d5479f291b65') in 0.004321 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 47.082344 seconds.
+  path: Assets/Scripts/LevelManager.cs
+  artifactKey: Guid(196b97d0c1a5b504c9779dbe02044979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LevelManager.cs using Guid(196b97d0c1a5b504c9779dbe02044979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea76b98946196aebc9b8e444fe394ef9') in 0.010560 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.963773 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(9e59995ebaf16874ba30c2b9578af517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(9e59995ebaf16874ba30c2b9578af517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1db750cebfa4eb735521a49a0d9dc54c') in 0.005397 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.070900 seconds.
+  path: Assets/#NVJOB Slender
+  artifactKey: Guid(4ea7bfd3c8dbefc4f8cad01bf2a78027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Slender using Guid(4ea7bfd3c8dbefc4f8cad01bf2a78027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a457df41e4b9acaac67cbc0fb56c248b') in 0.004525 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003715 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity\AlvarezAlejandro_Laboratorio08\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity\AlvarezAlejandro_Laboratorio08\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.582 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2831 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.4 MB.
+System memory in use after: 123.2 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3393.
+Total: 3.844900 ms (FindLiveObjects: 0.418400 ms CreateObjectMapping: 0.234200 ms MarkObjects: 2.902100 ms  DeleteObjects: 0.288400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2123.508496 seconds.
+  path: Assets/Canvas.prefab
+  artifactKey: Guid(17f37fa681479c14e9d46142b162333c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Canvas.prefab using Guid(17f37fa681479c14e9d46142b162333c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ace5bce01244640bf12286ece9117557') in 0.051781 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1649.912709 seconds.
+  path: Assets/SkyBox Volume 2
+  artifactKey: Guid(4f047807d7db46247b984182c56abc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2 using Guid(4f047807d7db46247b984182c56abc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbfb059fd462a7471f7f8d9e8164fece') in 0.004435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.025930 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet
+  artifactKey: Guid(5a170ebdb534ff24d81b6a20392559cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet using Guid(5a170ebdb534ff24d81b6a20392559cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5090004abbd2807c0dfb90364ff6307c') in 0.041914 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/upImage.png
+  artifactKey: Guid(82671bcdbbcc6f54c86c3c2c6ed06aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/upImage.png using Guid(82671bcdbbcc6f54c86c3c2c6ed06aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2108f6d6ca2a15699a017f799dbecb9') in 0.209223 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/downImage.png
+  artifactKey: Guid(06d8be9df22e9d443a0aefb29905bd87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/downImage.png using Guid(06d8be9df22e9d443a0aefb29905bd87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77a8bca94fcdfe3495fbdd6494bee2e1') in 0.096309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/leftImage.png
+  artifactKey: Guid(25f74bd5fd43fe94a9bf7a33040c8fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/leftImage.png using Guid(25f74bd5fd43fe94a9bf7a33040c8fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcb9efb15758d799fecdce585582c4cc') in 0.070365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/frontImage.png
+  artifactKey: Guid(400d172508883dc4eb23264cb156581f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/frontImage.png using Guid(400d172508883dc4eb23264cb156581f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1b821cfe9bc5f40c8af46ad66567daa') in 0.081272 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/backImage.png
+  artifactKey: Guid(b8eac033bd49f0f4a8914a7454a2ec3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/backImage.png using Guid(b8eac033bd49f0f4a8914a7454a2ec3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '227e5518b5b26636a9d63bf165dda06b') in 0.073812 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/rightImage.png
+  artifactKey: Guid(61e6c3739167eb34abfef78dcc131203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/rightImage.png using Guid(61e6c3739167eb34abfef78dcc131203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd728659040608bc499fb3f02da2370a2') in 0.077533 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.096095 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity\AlvarezAlejandro_Laboratorio08\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity\AlvarezAlejandro_Laboratorio08\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.743 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2837 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.4 MB.
+System memory in use after: 138.2 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3487.
+Total: 3.462500 ms (FindLiveObjects: 0.259400 ms CreateObjectMapping: 0.157100 ms MarkObjects: 2.710300 ms  DeleteObjects: 0.334200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
